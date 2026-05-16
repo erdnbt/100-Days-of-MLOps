@@ -1,4 +1,4 @@
-# Day N: <title>
+# TITLE
 
 ## Task Overview
 
