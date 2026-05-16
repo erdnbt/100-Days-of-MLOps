@@ -80,7 +80,7 @@ Use this section to track daily consistency and completed tasks.
 | Day | Topic | Status | Notes |
 |-----|-------|--------|-------|
 | 001 | Day 1: Create a Python Virtual Environment for ML | ☑ | |
-| 002 | Day 2: Set Up and Configure Jupyter Notebook Server | ☐ | |
+| 002 | Day 2: Set Up and Configure Jupyter Notebook Server | ☑ | |
 | 003 | Day 3: Fix a Broken uv Lockfile Specification | ☐ | |
 | 004 | Day 4: Create a Standard ML Project Structure | ☐ | | 
 | 005 | Day 5: Create a Makefile for ML Workflow Automation | ☐ | |
